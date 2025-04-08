@@ -10,7 +10,7 @@
 
 ## REST API
 
-- endpoint: https://llmtxt-d9vx.shuttle.app
+- endpoint: https://api.llmtxt.xyz
 
 ```bash
 GET /port/:user/:repo_name
